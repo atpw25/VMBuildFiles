@@ -52,4 +52,4 @@ sudo apt install --no-install-recommends -y r-base
 ## RStudio Desktop
 wget https://download1.rstudio.org/desktop/bionic/amd64/rstudio-2022.07.2-576-amd64.deb -o /tmp/rstudio-2022.07.2-576-amd64.deb
 
-sudo apy install --no-install-recommends -y /tmp/rstudio-2022.07.2-576-amd64.deb
+sudo apt install --no-install-recommends -y /tmp/rstudio-2022.07.2-576-amd64.deb
